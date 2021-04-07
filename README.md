@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Jeremy-R-J
-- 👀 I’m interested in learining my way around programming.  I'm so close to finishing my Coding Dojo Bootcamp, where I have learned 3 seperate full stack programing languages.
-Pyhton(Django),Java,MERN, are the first three I learned Im acctually in the process of continuing this education when I finish while I look for a web development job.
-- 🌱 I’m currently learning MERN just getting comfortable with hooks and using them in the correct ways to dynamically reneder my applications correctly.
-- 💞️ I’m looking to collaborate on anything, totally open.  I have a lot of Food Service and Management ecperience and am looking forward to using the talents Im learning with
-other talented indviduals to complete projects.
+- 👀 I’m interested in learing more about programming.  I started with Coding Dojo Bootcamp, where I learned 3 seperate full stack programing languages.
+Pyhton(Django),Java,MERN, are the first three I learned Im acctually in the process of continuing this education. ALso searching for a web development job.
+- 🌱 I ended the Dojo with the highest marks you coudl obtain in the MERN stack, really just made me happy how hard I worked to get everything accomplished.
+- 💞️ I’m looking to collaborate on anything, totally open.  I have a lot of Food Service and Management experience and am looking forward to using the talents while Im learning with other talented indviduals to complete projects.
 - 📫 How to reach me ... email me at "johnsjrmy@yahoo.com"!
 
 <!---
